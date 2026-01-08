@@ -1,0 +1,15 @@
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/bin/Debug/net8.0/firstExercise
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/bin/Debug/net8.0/firstExercise.deps.json
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/bin/Debug/net8.0/firstExercise.runtimeconfig.json
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/bin/Debug/net8.0/firstExercise.dll
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/bin/Debug/net8.0/firstExercise.pdb
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/firstExercise.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/firstExercise.AssemblyInfoInputs.cache
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/firstExercise.AssemblyInfo.cs
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/firstExercise.csproj.CoreCompileInputs.cache
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/firstExercise.sourcelink.json
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/firstExercise.dll
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/refint/firstExercise.dll
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/firstExercise.pdb
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/firstExercise.genruntimeconfig.cache
+/mnt/f/CU-DotNet-Jan26-B4/exercise/firstExercise/obj/Debug/net8.0/ref/firstExercise.dll
